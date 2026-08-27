@@ -1,0 +1,3795 @@
+{
+  "meta": {
+    "total_accounts": 96,
+    "total_transactions": 333,
+    "flagged_clusters": 6,
+    "flagged_accounts": 56,
+    "flagged_transactions": 73
+  },
+  "accounts": [
+    {
+      "id": "ACC_001",
+      "label": "ACC_001",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_002",
+      "label": "ACC_002",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_003",
+      "label": "ACC_003",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_004",
+      "label": "ACC_004",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_005",
+      "label": "ACC_005",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_006",
+      "label": "ACC_006",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_007",
+      "label": "ACC_007",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_008",
+      "label": "ACC_008",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_009",
+      "label": "ACC_009",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_010",
+      "label": "ACC_010",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_011",
+      "label": "ACC_011",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_012",
+      "label": "ACC_012",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_013",
+      "label": "ACC_013",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_014",
+      "label": "ACC_014",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_015",
+      "label": "ACC_015",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_016",
+      "label": "ACC_016",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_017",
+      "label": "ACC_017",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_018",
+      "label": "ACC_018",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_019",
+      "label": "ACC_019",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_020",
+      "label": "ACC_020",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_021",
+      "label": "ACC_021",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_022",
+      "label": "ACC_022",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_023",
+      "label": "ACC_023",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_024",
+      "label": "ACC_024",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_025",
+      "label": "ACC_025",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_026",
+      "label": "ACC_026",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_027",
+      "label": "ACC_027",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_028",
+      "label": "ACC_028",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_029",
+      "label": "ACC_029",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_030",
+      "label": "ACC_030",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_031",
+      "label": "ACC_031",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_032",
+      "label": "ACC_032",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_033",
+      "label": "ACC_033",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_034",
+      "label": "ACC_034",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_035",
+      "label": "ACC_035",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_036",
+      "label": "ACC_036",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_037",
+      "label": "ACC_037",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_038",
+      "label": "ACC_038",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_039",
+      "label": "ACC_039",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "ACC_040",
+      "label": "ACC_040",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "FAN1_COL",
+      "label": "FAN1_COL",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "FAN1_OUT",
+      "label": "FAN1_OUT",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "FAN1_S0",
+      "label": "FAN1_S0",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "FAN1_S1",
+      "label": "FAN1_S1",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "FAN1_S10",
+      "label": "FAN1_S10",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "FAN1_S2",
+      "label": "FAN1_S2",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "FAN1_S3",
+      "label": "FAN1_S3",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "FAN1_S4",
+      "label": "FAN1_S4",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "FAN1_S5",
+      "label": "FAN1_S5",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "FAN1_S6",
+      "label": "FAN1_S6",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "FAN1_S7",
+      "label": "FAN1_S7",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "FAN1_S8",
+      "label": "FAN1_S8",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "FAN1_S9",
+      "label": "FAN1_S9",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "FAN2_COL",
+      "label": "FAN2_COL",
+      "flagged": true,
+      "cluster_id": "CLUSTER_5"
+    },
+    {
+      "id": "FAN2_OUT",
+      "label": "FAN2_OUT",
+      "flagged": true,
+      "cluster_id": "CLUSTER_5"
+    },
+    {
+      "id": "FAN2_S0",
+      "label": "FAN2_S0",
+      "flagged": true,
+      "cluster_id": "CLUSTER_5"
+    },
+    {
+      "id": "FAN2_S1",
+      "label": "FAN2_S1",
+      "flagged": true,
+      "cluster_id": "CLUSTER_5"
+    },
+    {
+      "id": "FAN2_S2",
+      "label": "FAN2_S2",
+      "flagged": true,
+      "cluster_id": "CLUSTER_5"
+    },
+    {
+      "id": "FAN2_S3",
+      "label": "FAN2_S3",
+      "flagged": true,
+      "cluster_id": "CLUSTER_5"
+    },
+    {
+      "id": "FAN2_S4",
+      "label": "FAN2_S4",
+      "flagged": true,
+      "cluster_id": "CLUSTER_5"
+    },
+    {
+      "id": "FAN2_S5",
+      "label": "FAN2_S5",
+      "flagged": true,
+      "cluster_id": "CLUSTER_5"
+    },
+    {
+      "id": "FAN2_S6",
+      "label": "FAN2_S6",
+      "flagged": true,
+      "cluster_id": "CLUSTER_5"
+    },
+    {
+      "id": "RING1_0",
+      "label": "RING1_0",
+      "flagged": true,
+      "cluster_id": "CLUSTER_1"
+    },
+    {
+      "id": "RING1_1",
+      "label": "RING1_1",
+      "flagged": true,
+      "cluster_id": "CLUSTER_1"
+    },
+    {
+      "id": "RING1_2",
+      "label": "RING1_2",
+      "flagged": true,
+      "cluster_id": "CLUSTER_1"
+    },
+    {
+      "id": "RING2_0",
+      "label": "RING2_0",
+      "flagged": true,
+      "cluster_id": "CLUSTER_2"
+    },
+    {
+      "id": "RING2_1",
+      "label": "RING2_1",
+      "flagged": true,
+      "cluster_id": "CLUSTER_2"
+    },
+    {
+      "id": "RING2_2",
+      "label": "RING2_2",
+      "flagged": true,
+      "cluster_id": "CLUSTER_2"
+    },
+    {
+      "id": "RING2_3",
+      "label": "RING2_3",
+      "flagged": true,
+      "cluster_id": "CLUSTER_2"
+    },
+    {
+      "id": "SMURF1_COL",
+      "label": "SMURF1_COL",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "SMURF1_M0",
+      "label": "SMURF1_M0",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "SMURF1_M1",
+      "label": "SMURF1_M1",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "SMURF1_M10",
+      "label": "SMURF1_M10",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "SMURF1_M11",
+      "label": "SMURF1_M11",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "SMURF1_M12",
+      "label": "SMURF1_M12",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "SMURF1_M13",
+      "label": "SMURF1_M13",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "SMURF1_M2",
+      "label": "SMURF1_M2",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "SMURF1_M3",
+      "label": "SMURF1_M3",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "SMURF1_M4",
+      "label": "SMURF1_M4",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "SMURF1_M5",
+      "label": "SMURF1_M5",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "SMURF1_M6",
+      "label": "SMURF1_M6",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "SMURF1_M7",
+      "label": "SMURF1_M7",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "SMURF1_M8",
+      "label": "SMURF1_M8",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "SMURF1_M9",
+      "label": "SMURF1_M9",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "SMURF1_SRC",
+      "label": "SMURF1_SRC",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "SMURF2_COL",
+      "label": "SMURF2_COL",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "SMURF2_M0",
+      "label": "SMURF2_M0",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "SMURF2_M1",
+      "label": "SMURF2_M1",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "SMURF2_M2",
+      "label": "SMURF2_M2",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "SMURF2_M3",
+      "label": "SMURF2_M3",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "SMURF2_M4",
+      "label": "SMURF2_M4",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "SMURF2_M5",
+      "label": "SMURF2_M5",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "SMURF2_M6",
+      "label": "SMURF2_M6",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "SMURF2_M7",
+      "label": "SMURF2_M7",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "SMURF2_M8",
+      "label": "SMURF2_M8",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "SMURF2_SRC",
+      "label": "SMURF2_SRC",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "TXN_0038",
+      "from": "ACC_020",
+      "to": "ACC_030",
+      "amount": 1085.3,
+      "timestamp": "2026-08-01T19:36:10.124645",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0150",
+      "from": "ACC_027",
+      "to": "ACC_007",
+      "amount": 13466.09,
+      "timestamp": "2026-08-02T01:22:54.219304",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0202",
+      "from": "ACC_012",
+      "to": "ACC_040",
+      "amount": 5814.17,
+      "timestamp": "2026-08-02T06:45:51.010662",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0137",
+      "from": "ACC_025",
+      "to": "ACC_037",
+      "amount": 8029.83,
+      "timestamp": "2026-08-02T06:58:42.451669",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0019",
+      "from": "ACC_035",
+      "to": "ACC_034",
+      "amount": 13182.06,
+      "timestamp": "2026-08-02T08:06:52.721830",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0153",
+      "from": "ACC_006",
+      "to": "ACC_014",
+      "amount": 1996.77,
+      "timestamp": "2026-08-02T09:29:44.840862",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0124",
+      "from": "ACC_013",
+      "to": "ACC_016",
+      "amount": 6970.56,
+      "timestamp": "2026-08-02T15:52:16.184577",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0034",
+      "from": "ACC_021",
+      "to": "ACC_004",
+      "amount": 340.4,
+      "timestamp": "2026-08-02T16:51:18.691600",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0062",
+      "from": "ACC_016",
+      "to": "ACC_020",
+      "amount": 828.99,
+      "timestamp": "2026-08-02T22:54:22.242476",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0189",
+      "from": "ACC_023",
+      "to": "ACC_033",
+      "amount": 407.73,
+      "timestamp": "2026-08-03T00:37:59.897209",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0256",
+      "from": "ACC_026",
+      "to": "ACC_004",
+      "amount": 6309.14,
+      "timestamp": "2026-08-03T01:09:43.684450",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0113",
+      "from": "ACC_019",
+      "to": "ACC_026",
+      "amount": 12351.64,
+      "timestamp": "2026-08-03T02:26:22.948734",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0213",
+      "from": "ACC_020",
+      "to": "ACC_008",
+      "amount": 10137.03,
+      "timestamp": "2026-08-03T03:44:07.113855",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0097",
+      "from": "ACC_036",
+      "to": "ACC_019",
+      "amount": 5146.75,
+      "timestamp": "2026-08-03T03:59:54.757183",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0075",
+      "from": "ACC_009",
+      "to": "ACC_040",
+      "amount": 1695.55,
+      "timestamp": "2026-08-03T04:35:46.418645",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0227",
+      "from": "ACC_023",
+      "to": "ACC_040",
+      "amount": 2994.82,
+      "timestamp": "2026-08-03T05:07:15.773028",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0165",
+      "from": "ACC_017",
+      "to": "ACC_024",
+      "amount": 14675.96,
+      "timestamp": "2026-08-03T05:47:51.765447",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0020",
+      "from": "ACC_020",
+      "to": "ACC_016",
+      "amount": 362.19,
+      "timestamp": "2026-08-03T06:49:59.199463",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0144",
+      "from": "ACC_015",
+      "to": "ACC_026",
+      "amount": 16677.99,
+      "timestamp": "2026-08-03T06:58:56.779444",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0081",
+      "from": "ACC_039",
+      "to": "ACC_008",
+      "amount": 5784.02,
+      "timestamp": "2026-08-03T07:05:52.987342",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0043",
+      "from": "ACC_014",
+      "to": "ACC_017",
+      "amount": 1615.15,
+      "timestamp": "2026-08-03T08:41:03.286567",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0179",
+      "from": "ACC_025",
+      "to": "ACC_035",
+      "amount": 11504.46,
+      "timestamp": "2026-08-03T09:00:30.221896",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0147",
+      "from": "ACC_005",
+      "to": "ACC_030",
+      "amount": 8137.23,
+      "timestamp": "2026-08-03T11:53:34.784069",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0212",
+      "from": "ACC_006",
+      "to": "ACC_002",
+      "amount": 17194.37,
+      "timestamp": "2026-08-03T14:57:09.415715",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0054",
+      "from": "ACC_017",
+      "to": "ACC_012",
+      "amount": 1825.65,
+      "timestamp": "2026-08-03T17:03:51.890406",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0257",
+      "from": "ACC_036",
+      "to": "ACC_018",
+      "amount": 2510.87,
+      "timestamp": "2026-08-03T19:10:00.136459",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0061",
+      "from": "ACC_011",
+      "to": "ACC_006",
+      "amount": 14285.52,
+      "timestamp": "2026-08-03T21:54:54.506653",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0157",
+      "from": "ACC_016",
+      "to": "ACC_038",
+      "amount": 1106.56,
+      "timestamp": "2026-08-04T01:59:21.693829",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0156",
+      "from": "ACC_009",
+      "to": "ACC_035",
+      "amount": 901.83,
+      "timestamp": "2026-08-04T03:01:35.912641",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0039",
+      "from": "ACC_037",
+      "to": "ACC_007",
+      "amount": 6623.62,
+      "timestamp": "2026-08-04T03:08:03.564614",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0069",
+      "from": "ACC_005",
+      "to": "ACC_019",
+      "amount": 856.58,
+      "timestamp": "2026-08-04T03:17:26.889063",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0012",
+      "from": "ACC_037",
+      "to": "ACC_021",
+      "amount": 11486.93,
+      "timestamp": "2026-08-04T03:21:30.273305",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0014",
+      "from": "ACC_009",
+      "to": "ACC_033",
+      "amount": 1581.84,
+      "timestamp": "2026-08-04T08:52:17.734774",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0228",
+      "from": "ACC_024",
+      "to": "ACC_033",
+      "amount": 2443.07,
+      "timestamp": "2026-08-04T14:32:33.366244",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0173",
+      "from": "ACC_006",
+      "to": "ACC_034",
+      "amount": 10137.15,
+      "timestamp": "2026-08-04T14:48:48.858836",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0168",
+      "from": "ACC_019",
+      "to": "ACC_039",
+      "amount": 1074.86,
+      "timestamp": "2026-08-04T17:33:23.594909",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0247",
+      "from": "ACC_016",
+      "to": "ACC_026",
+      "amount": 1032.81,
+      "timestamp": "2026-08-04T17:38:50.881937",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0241",
+      "from": "ACC_033",
+      "to": "ACC_004",
+      "amount": 11807.74,
+      "timestamp": "2026-08-04T18:43:51.694652",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0141",
+      "from": "ACC_024",
+      "to": "ACC_009",
+      "amount": 8016.88,
+      "timestamp": "2026-08-04T19:41:39.950339",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0044",
+      "from": "ACC_018",
+      "to": "ACC_003",
+      "amount": 16109.03,
+      "timestamp": "2026-08-04T20:02:28.925976",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0174",
+      "from": "ACC_021",
+      "to": "ACC_037",
+      "amount": 1869.43,
+      "timestamp": "2026-08-04T22:09:45.736230",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0018",
+      "from": "ACC_033",
+      "to": "ACC_007",
+      "amount": 2637.45,
+      "timestamp": "2026-08-04T23:19:52.501983",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0099",
+      "from": "ACC_008",
+      "to": "ACC_005",
+      "amount": 1321.98,
+      "timestamp": "2026-08-04T23:56:16.156802",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0296",
+      "from": "SMURF2_SRC",
+      "to": "SMURF2_M0",
+      "amount": 13019.49,
+      "timestamp": "2026-08-05T04:51:43.794508",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "TXN_0298",
+      "from": "SMURF2_SRC",
+      "to": "SMURF2_M1",
+      "amount": 13839.78,
+      "timestamp": "2026-08-05T05:11:43.794508",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "TXN_0300",
+      "from": "SMURF2_SRC",
+      "to": "SMURF2_M2",
+      "amount": 13599.61,
+      "timestamp": "2026-08-05T05:31:43.794508",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "TXN_0302",
+      "from": "SMURF2_SRC",
+      "to": "SMURF2_M3",
+      "amount": 13486.97,
+      "timestamp": "2026-08-05T05:51:43.794508",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "TXN_0304",
+      "from": "SMURF2_SRC",
+      "to": "SMURF2_M4",
+      "amount": 12922.61,
+      "timestamp": "2026-08-05T06:11:43.794508",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "TXN_0306",
+      "from": "SMURF2_SRC",
+      "to": "SMURF2_M5",
+      "amount": 13805.25,
+      "timestamp": "2026-08-05T06:31:43.794508",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "TXN_0308",
+      "from": "SMURF2_SRC",
+      "to": "SMURF2_M6",
+      "amount": 13765.97,
+      "timestamp": "2026-08-05T06:51:43.794508",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "TXN_0132",
+      "from": "ACC_034",
+      "to": "ACC_027",
+      "amount": 1784.6,
+      "timestamp": "2026-08-05T06:51:45.928213",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0310",
+      "from": "SMURF2_SRC",
+      "to": "SMURF2_M7",
+      "amount": 12541.84,
+      "timestamp": "2026-08-05T07:11:43.794508",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "TXN_0312",
+      "from": "SMURF2_SRC",
+      "to": "SMURF2_M8",
+      "amount": 13736.11,
+      "timestamp": "2026-08-05T07:31:43.794508",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "TXN_0233",
+      "from": "ACC_029",
+      "to": "ACC_014",
+      "amount": 7854.81,
+      "timestamp": "2026-08-05T08:08:50.517186",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0260",
+      "from": "ACC_010",
+      "to": "ACC_039",
+      "amount": 5376.28,
+      "timestamp": "2026-08-05T09:40:32.911764",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0305",
+      "from": "SMURF2_M4",
+      "to": "SMURF2_COL",
+      "amount": 12858.0,
+      "timestamp": "2026-08-05T11:08:01.595676",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "TXN_0301",
+      "from": "SMURF2_M2",
+      "to": "SMURF2_COL",
+      "amount": 13531.61,
+      "timestamp": "2026-08-05T11:12:45.703378",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "TXN_0309",
+      "from": "SMURF2_M6",
+      "to": "SMURF2_COL",
+      "amount": 13697.14,
+      "timestamp": "2026-08-05T13:03:28.290022",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "TXN_0181",
+      "from": "ACC_027",
+      "to": "ACC_019",
+      "amount": 3354.56,
+      "timestamp": "2026-08-05T13:22:00.575167",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0307",
+      "from": "SMURF2_M5",
+      "to": "SMURF2_COL",
+      "amount": 13736.23,
+      "timestamp": "2026-08-05T14:09:21.931623",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "TXN_0311",
+      "from": "SMURF2_M7",
+      "to": "SMURF2_COL",
+      "amount": 12479.13,
+      "timestamp": "2026-08-05T15:24:34.876788",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "TXN_0258",
+      "from": "ACC_024",
+      "to": "ACC_022",
+      "amount": 1761.93,
+      "timestamp": "2026-08-05T16:32:38.805691",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0094",
+      "from": "ACC_013",
+      "to": "ACC_021",
+      "amount": 534.75,
+      "timestamp": "2026-08-05T18:15:47.383494",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0299",
+      "from": "SMURF2_M1",
+      "to": "SMURF2_COL",
+      "amount": 13770.58,
+      "timestamp": "2026-08-05T19:22:06.424914",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "TXN_0297",
+      "from": "SMURF2_M0",
+      "to": "SMURF2_COL",
+      "amount": 12954.39,
+      "timestamp": "2026-08-05T20:31:47.895744",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "TXN_0303",
+      "from": "SMURF2_M3",
+      "to": "SMURF2_COL",
+      "amount": 13419.53,
+      "timestamp": "2026-08-06T01:20:50.881435",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "TXN_0023",
+      "from": "ACC_024",
+      "to": "ACC_029",
+      "amount": 2718.92,
+      "timestamp": "2026-08-06T01:21:41.440880",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0002",
+      "from": "ACC_035",
+      "to": "ACC_006",
+      "amount": 1853.38,
+      "timestamp": "2026-08-06T02:19:19.438376",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0313",
+      "from": "SMURF2_M8",
+      "to": "SMURF2_COL",
+      "amount": 13667.43,
+      "timestamp": "2026-08-06T02:39:59.040764",
+      "flagged": true,
+      "cluster_id": "CLUSTER_3"
+    },
+    {
+      "id": "TXN_0203",
+      "from": "ACC_016",
+      "to": "ACC_029",
+      "amount": 15790.65,
+      "timestamp": "2026-08-06T03:40:39.100364",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0003",
+      "from": "ACC_002",
+      "to": "ACC_036",
+      "amount": 14048.04,
+      "timestamp": "2026-08-06T05:14:40.019718",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0004",
+      "from": "ACC_001",
+      "to": "ACC_011",
+      "amount": 2154.79,
+      "timestamp": "2026-08-06T06:50:31.182714",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0231",
+      "from": "ACC_037",
+      "to": "ACC_009",
+      "amount": 9766.58,
+      "timestamp": "2026-08-06T08:31:37.343500",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0037",
+      "from": "ACC_034",
+      "to": "ACC_021",
+      "amount": 6472.41,
+      "timestamp": "2026-08-06T09:47:47.689589",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0028",
+      "from": "ACC_004",
+      "to": "ACC_007",
+      "amount": 369.72,
+      "timestamp": "2026-08-06T09:53:16.101954",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0090",
+      "from": "ACC_018",
+      "to": "ACC_036",
+      "amount": 228.42,
+      "timestamp": "2026-08-06T11:23:51.807768",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0079",
+      "from": "ACC_002",
+      "to": "ACC_016",
+      "amount": 758.21,
+      "timestamp": "2026-08-06T11:35:31.618229",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0133",
+      "from": "ACC_025",
+      "to": "ACC_040",
+      "amount": 2112.78,
+      "timestamp": "2026-08-06T12:19:57.673448",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0104",
+      "from": "ACC_027",
+      "to": "ACC_029",
+      "amount": 2130.24,
+      "timestamp": "2026-08-06T13:37:51.463680",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0026",
+      "from": "ACC_035",
+      "to": "ACC_009",
+      "amount": 18000.51,
+      "timestamp": "2026-08-06T13:49:19.058873",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0232",
+      "from": "ACC_012",
+      "to": "ACC_032",
+      "amount": 1649.69,
+      "timestamp": "2026-08-06T18:10:56.638227",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0011",
+      "from": "ACC_004",
+      "to": "ACC_015",
+      "amount": 16685.78,
+      "timestamp": "2026-08-06T20:00:17.963056",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0254",
+      "from": "ACC_019",
+      "to": "ACC_032",
+      "amount": 17328.44,
+      "timestamp": "2026-08-07T00:12:48.391160",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0221",
+      "from": "ACC_020",
+      "to": "ACC_033",
+      "amount": 16861.9,
+      "timestamp": "2026-08-07T01:44:56.830970",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0195",
+      "from": "ACC_005",
+      "to": "ACC_022",
+      "amount": 14532.45,
+      "timestamp": "2026-08-07T03:26:36.477105",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0098",
+      "from": "ACC_019",
+      "to": "ACC_031",
+      "amount": 1540.4,
+      "timestamp": "2026-08-07T03:55:49.655854",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0142",
+      "from": "ACC_035",
+      "to": "ACC_024",
+      "amount": 1686.39,
+      "timestamp": "2026-08-07T05:18:19.721235",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0087",
+      "from": "ACC_038",
+      "to": "ACC_018",
+      "amount": 1102.45,
+      "timestamp": "2026-08-07T07:23:56.708152",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0025",
+      "from": "ACC_005",
+      "to": "ACC_003",
+      "amount": 2606.98,
+      "timestamp": "2026-08-07T08:00:08.960464",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0161",
+      "from": "ACC_005",
+      "to": "ACC_006",
+      "amount": 1101.91,
+      "timestamp": "2026-08-07T09:48:06.858578",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0222",
+      "from": "ACC_013",
+      "to": "ACC_019",
+      "amount": 16274.31,
+      "timestamp": "2026-08-07T12:53:07.394488",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0177",
+      "from": "ACC_015",
+      "to": "ACC_026",
+      "amount": 2956.45,
+      "timestamp": "2026-08-07T12:59:05.906251",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0059",
+      "from": "ACC_012",
+      "to": "ACC_040",
+      "amount": 1793.49,
+      "timestamp": "2026-08-07T14:11:50.491926",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0093",
+      "from": "ACC_028",
+      "to": "ACC_036",
+      "amount": 14948.53,
+      "timestamp": "2026-08-07T16:04:15.242272",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0032",
+      "from": "ACC_001",
+      "to": "ACC_025",
+      "amount": 16329.2,
+      "timestamp": "2026-08-07T16:29:01.706912",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0096",
+      "from": "ACC_019",
+      "to": "ACC_015",
+      "amount": 1210.47,
+      "timestamp": "2026-08-07T17:38:09.553363",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0155",
+      "from": "ACC_015",
+      "to": "ACC_022",
+      "amount": 2368.23,
+      "timestamp": "2026-08-07T19:21:47.511130",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0164",
+      "from": "ACC_027",
+      "to": "ACC_022",
+      "amount": 2516.77,
+      "timestamp": "2026-08-07T21:01:29.762781",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0183",
+      "from": "ACC_006",
+      "to": "ACC_026",
+      "amount": 2637.47,
+      "timestamp": "2026-08-08T03:54:06.374627",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0249",
+      "from": "ACC_026",
+      "to": "ACC_009",
+      "amount": 2329.86,
+      "timestamp": "2026-08-08T04:01:47.094082",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0225",
+      "from": "ACC_039",
+      "to": "ACC_012",
+      "amount": 1727.33,
+      "timestamp": "2026-08-08T04:22:01.167875",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0264",
+      "from": "RING2_0",
+      "to": "RING2_1",
+      "amount": 95000.0,
+      "timestamp": "2026-08-08T05:15:54.861999",
+      "flagged": true,
+      "cluster_id": "CLUSTER_2"
+    },
+    {
+      "id": "TXN_0191",
+      "from": "ACC_003",
+      "to": "ACC_029",
+      "amount": 2745.34,
+      "timestamp": "2026-08-08T05:27:52.506585",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0223",
+      "from": "ACC_028",
+      "to": "ACC_026",
+      "amount": 18208.84,
+      "timestamp": "2026-08-08T07:21:29.066184",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0265",
+      "from": "RING2_1",
+      "to": "RING2_2",
+      "amount": 92150.0,
+      "timestamp": "2026-08-08T08:15:54.861999",
+      "flagged": true,
+      "cluster_id": "CLUSTER_2"
+    },
+    {
+      "id": "TXN_0226",
+      "from": "ACC_029",
+      "to": "ACC_039",
+      "amount": 5832.96,
+      "timestamp": "2026-08-08T10:11:46.333426",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0266",
+      "from": "RING2_2",
+      "to": "RING2_3",
+      "amount": 89385.5,
+      "timestamp": "2026-08-08T11:15:54.861999",
+      "flagged": true,
+      "cluster_id": "CLUSTER_2"
+    },
+    {
+      "id": "TXN_0267",
+      "from": "RING2_3",
+      "to": "RING2_0",
+      "amount": 86703.93,
+      "timestamp": "2026-08-08T14:15:54.861999",
+      "flagged": true,
+      "cluster_id": "CLUSTER_2"
+    },
+    {
+      "id": "TXN_0112",
+      "from": "ACC_027",
+      "to": "ACC_022",
+      "amount": 1098.96,
+      "timestamp": "2026-08-08T14:52:09.172630",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0056",
+      "from": "ACC_003",
+      "to": "ACC_028",
+      "amount": 204.74,
+      "timestamp": "2026-08-08T17:14:49.175681",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0218",
+      "from": "ACC_007",
+      "to": "ACC_038",
+      "amount": 2258.52,
+      "timestamp": "2026-08-08T17:41:01.872376",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0121",
+      "from": "ACC_009",
+      "to": "ACC_005",
+      "amount": 16430.11,
+      "timestamp": "2026-08-08T22:12:08.424965",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0199",
+      "from": "ACC_024",
+      "to": "ACC_002",
+      "amount": 1215.27,
+      "timestamp": "2026-08-08T22:37:15.063349",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0217",
+      "from": "ACC_025",
+      "to": "ACC_024",
+      "amount": 910.22,
+      "timestamp": "2026-08-08T23:22:15.747849",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0047",
+      "from": "ACC_003",
+      "to": "ACC_023",
+      "amount": 788.21,
+      "timestamp": "2026-08-08T23:41:28.450699",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0131",
+      "from": "ACC_002",
+      "to": "ACC_003",
+      "amount": 3954.03,
+      "timestamp": "2026-08-09T00:24:48.903637",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0184",
+      "from": "ACC_033",
+      "to": "ACC_008",
+      "amount": 6296.36,
+      "timestamp": "2026-08-09T07:57:05.856460",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0229",
+      "from": "ACC_029",
+      "to": "ACC_003",
+      "amount": 7011.92,
+      "timestamp": "2026-08-09T13:18:39.975433",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0230",
+      "from": "ACC_003",
+      "to": "ACC_039",
+      "amount": 10648.68,
+      "timestamp": "2026-08-09T13:48:31.572261",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0046",
+      "from": "ACC_038",
+      "to": "ACC_036",
+      "amount": 5166.57,
+      "timestamp": "2026-08-09T14:10:42.513519",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0013",
+      "from": "ACC_036",
+      "to": "ACC_035",
+      "amount": 12937.96,
+      "timestamp": "2026-08-09T14:22:55.294692",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0216",
+      "from": "ACC_024",
+      "to": "ACC_005",
+      "amount": 2869.53,
+      "timestamp": "2026-08-09T16:04:18.923110",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0175",
+      "from": "ACC_006",
+      "to": "ACC_018",
+      "amount": 10208.25,
+      "timestamp": "2026-08-09T21:55:20.132620",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0070",
+      "from": "ACC_010",
+      "to": "ACC_014",
+      "amount": 9929.19,
+      "timestamp": "2026-08-09T22:30:51.261611",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0119",
+      "from": "ACC_010",
+      "to": "ACC_032",
+      "amount": 7961.65,
+      "timestamp": "2026-08-10T04:59:13.641671",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0126",
+      "from": "ACC_029",
+      "to": "ACC_007",
+      "amount": 1672.66,
+      "timestamp": "2026-08-10T06:20:38.314271",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0027",
+      "from": "ACC_027",
+      "to": "ACC_013",
+      "amount": 14202.71,
+      "timestamp": "2026-08-10T08:41:31.984926",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0036",
+      "from": "ACC_037",
+      "to": "ACC_016",
+      "amount": 1820.97,
+      "timestamp": "2026-08-10T09:17:50.972180",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0035",
+      "from": "ACC_012",
+      "to": "ACC_005",
+      "amount": 1866.1,
+      "timestamp": "2026-08-10T10:06:04.265704",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0211",
+      "from": "ACC_019",
+      "to": "ACC_031",
+      "amount": 5359.48,
+      "timestamp": "2026-08-10T10:13:16.217927",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0091",
+      "from": "ACC_036",
+      "to": "ACC_016",
+      "amount": 13980.35,
+      "timestamp": "2026-08-10T10:17:37.720378",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0105",
+      "from": "ACC_030",
+      "to": "ACC_005",
+      "amount": 2124.68,
+      "timestamp": "2026-08-10T11:20:22.329620",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0182",
+      "from": "ACC_030",
+      "to": "ACC_024",
+      "amount": 446.76,
+      "timestamp": "2026-08-10T13:11:30.354610",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0158",
+      "from": "ACC_008",
+      "to": "ACC_005",
+      "amount": 1533.49,
+      "timestamp": "2026-08-10T17:07:40.532837",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0058",
+      "from": "ACC_021",
+      "to": "ACC_026",
+      "amount": 2152.18,
+      "timestamp": "2026-08-10T18:28:25.249149",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0123",
+      "from": "ACC_031",
+      "to": "ACC_023",
+      "amount": 15968.84,
+      "timestamp": "2026-08-10T21:12:58.835902",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0076",
+      "from": "ACC_030",
+      "to": "ACC_012",
+      "amount": 340.8,
+      "timestamp": "2026-08-10T21:16:06.502663",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0143",
+      "from": "ACC_031",
+      "to": "ACC_019",
+      "amount": 2290.37,
+      "timestamp": "2026-08-10T21:50:46.336717",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0163",
+      "from": "ACC_007",
+      "to": "ACC_008",
+      "amount": 2587.82,
+      "timestamp": "2026-08-10T22:04:09.966459",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0204",
+      "from": "ACC_031",
+      "to": "ACC_013",
+      "amount": 19101.21,
+      "timestamp": "2026-08-10T23:26:57.230589",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0130",
+      "from": "ACC_028",
+      "to": "ACC_007",
+      "amount": 2329.04,
+      "timestamp": "2026-08-11T00:16:12.064600",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0239",
+      "from": "ACC_037",
+      "to": "ACC_005",
+      "amount": 550.91,
+      "timestamp": "2026-08-11T03:06:35.141723",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0162",
+      "from": "ACC_036",
+      "to": "ACC_021",
+      "amount": 13155.66,
+      "timestamp": "2026-08-11T03:12:10.128438",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0065",
+      "from": "ACC_034",
+      "to": "ACC_030",
+      "amount": 340.61,
+      "timestamp": "2026-08-11T09:17:26.730522",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0092",
+      "from": "ACC_019",
+      "to": "ACC_015",
+      "amount": 7136.19,
+      "timestamp": "2026-08-11T11:15:55.485656",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0073",
+      "from": "ACC_027",
+      "to": "ACC_035",
+      "amount": 2293.04,
+      "timestamp": "2026-08-11T12:37:05.175004",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0159",
+      "from": "ACC_040",
+      "to": "ACC_003",
+      "amount": 18448.78,
+      "timestamp": "2026-08-11T13:59:24.214316",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0086",
+      "from": "ACC_034",
+      "to": "ACC_018",
+      "amount": 18633.5,
+      "timestamp": "2026-08-11T14:06:50.440557",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0088",
+      "from": "ACC_030",
+      "to": "ACC_037",
+      "amount": 1908.93,
+      "timestamp": "2026-08-11T16:55:50.944266",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0243",
+      "from": "ACC_036",
+      "to": "ACC_018",
+      "amount": 550.48,
+      "timestamp": "2026-08-11T17:20:38.855730",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0268",
+      "from": "SMURF1_SRC",
+      "to": "SMURF1_M0",
+      "amount": 13424.53,
+      "timestamp": "2026-08-11T19:45:24.184000",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0270",
+      "from": "SMURF1_SRC",
+      "to": "SMURF1_M1",
+      "amount": 13526.13,
+      "timestamp": "2026-08-11T20:05:24.184000",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0272",
+      "from": "SMURF1_SRC",
+      "to": "SMURF1_M2",
+      "amount": 13857.08,
+      "timestamp": "2026-08-11T20:25:24.184000",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0274",
+      "from": "SMURF1_SRC",
+      "to": "SMURF1_M3",
+      "amount": 12809.96,
+      "timestamp": "2026-08-11T20:45:24.184000",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0276",
+      "from": "SMURF1_SRC",
+      "to": "SMURF1_M4",
+      "amount": 13790.99,
+      "timestamp": "2026-08-11T21:05:24.184000",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0278",
+      "from": "SMURF1_SRC",
+      "to": "SMURF1_M5",
+      "amount": 14041.42,
+      "timestamp": "2026-08-11T21:25:24.184000",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0280",
+      "from": "SMURF1_SRC",
+      "to": "SMURF1_M6",
+      "amount": 13994.34,
+      "timestamp": "2026-08-11T21:45:24.184000",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0282",
+      "from": "SMURF1_SRC",
+      "to": "SMURF1_M7",
+      "amount": 13082.5,
+      "timestamp": "2026-08-11T22:05:24.184000",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0284",
+      "from": "SMURF1_SRC",
+      "to": "SMURF1_M8",
+      "amount": 14657.14,
+      "timestamp": "2026-08-11T22:25:24.184000",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0286",
+      "from": "SMURF1_SRC",
+      "to": "SMURF1_M9",
+      "amount": 13455.81,
+      "timestamp": "2026-08-11T22:45:24.184000",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0288",
+      "from": "SMURF1_SRC",
+      "to": "SMURF1_M10",
+      "amount": 13673.35,
+      "timestamp": "2026-08-11T23:05:24.184000",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0084",
+      "from": "ACC_003",
+      "to": "ACC_023",
+      "amount": 1691.69,
+      "timestamp": "2026-08-11T23:11:37.630298",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0290",
+      "from": "SMURF1_SRC",
+      "to": "SMURF1_M11",
+      "amount": 13843.41,
+      "timestamp": "2026-08-11T23:25:24.184000",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0283",
+      "from": "SMURF1_M7",
+      "to": "SMURF1_COL",
+      "amount": 13017.08,
+      "timestamp": "2026-08-11T23:41:23.607113",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0292",
+      "from": "SMURF1_SRC",
+      "to": "SMURF1_M12",
+      "amount": 13060.69,
+      "timestamp": "2026-08-11T23:45:24.184000",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0285",
+      "from": "SMURF1_M8",
+      "to": "SMURF1_COL",
+      "amount": 14583.85,
+      "timestamp": "2026-08-11T23:46:59.499937",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0294",
+      "from": "SMURF1_SRC",
+      "to": "SMURF1_M13",
+      "amount": 14116.88,
+      "timestamp": "2026-08-12T00:05:24.184000",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0291",
+      "from": "SMURF1_M11",
+      "to": "SMURF1_COL",
+      "amount": 13774.19,
+      "timestamp": "2026-08-12T01:36:24.223963",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0279",
+      "from": "SMURF1_M5",
+      "to": "SMURF1_COL",
+      "amount": 13971.21,
+      "timestamp": "2026-08-12T01:39:47.209023",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0269",
+      "from": "SMURF1_M0",
+      "to": "SMURF1_COL",
+      "amount": 13357.41,
+      "timestamp": "2026-08-12T03:45:19.858195",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0160",
+      "from": "ACC_004",
+      "to": "ACC_031",
+      "amount": 2572.44,
+      "timestamp": "2026-08-12T04:55:41.960595",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0293",
+      "from": "SMURF1_M12",
+      "to": "SMURF1_COL",
+      "amount": 12995.38,
+      "timestamp": "2026-08-12T06:55:57.572155",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0295",
+      "from": "SMURF1_M13",
+      "to": "SMURF1_COL",
+      "amount": 14046.3,
+      "timestamp": "2026-08-12T07:03:04.861754",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0057",
+      "from": "ACC_022",
+      "to": "ACC_040",
+      "amount": 17416.26,
+      "timestamp": "2026-08-12T07:35:42.618236",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0110",
+      "from": "ACC_018",
+      "to": "ACC_037",
+      "amount": 15856.57,
+      "timestamp": "2026-08-12T08:10:16.613630",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0271",
+      "from": "SMURF1_M1",
+      "to": "SMURF1_COL",
+      "amount": 13458.5,
+      "timestamp": "2026-08-12T08:10:49.410502",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0176",
+      "from": "ACC_033",
+      "to": "ACC_008",
+      "amount": 4885.13,
+      "timestamp": "2026-08-12T08:58:36.679466",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0277",
+      "from": "SMURF1_M4",
+      "to": "SMURF1_COL",
+      "amount": 13722.03,
+      "timestamp": "2026-08-12T09:03:54.376677",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0273",
+      "from": "SMURF1_M2",
+      "to": "SMURF1_COL",
+      "amount": 13787.79,
+      "timestamp": "2026-08-12T10:29:46.369742",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0287",
+      "from": "SMURF1_M9",
+      "to": "SMURF1_COL",
+      "amount": 13388.53,
+      "timestamp": "2026-08-12T12:52:34.401847",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0281",
+      "from": "SMURF1_M6",
+      "to": "SMURF1_COL",
+      "amount": 13924.37,
+      "timestamp": "2026-08-12T14:44:20.015347",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0193",
+      "from": "ACC_012",
+      "to": "ACC_003",
+      "amount": 10441.89,
+      "timestamp": "2026-08-12T14:45:57.169978",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0275",
+      "from": "SMURF1_M3",
+      "to": "SMURF1_COL",
+      "amount": 12745.91,
+      "timestamp": "2026-08-12T16:07:51.819618",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0289",
+      "from": "SMURF1_M10",
+      "to": "SMURF1_COL",
+      "amount": 13604.98,
+      "timestamp": "2026-08-12T17:34:47.816973",
+      "flagged": true,
+      "cluster_id": "CLUSTER_4"
+    },
+    {
+      "id": "TXN_0103",
+      "from": "ACC_014",
+      "to": "ACC_017",
+      "amount": 2049.2,
+      "timestamp": "2026-08-12T17:57:39.148351",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0238",
+      "from": "ACC_040",
+      "to": "ACC_006",
+      "amount": 9768.72,
+      "timestamp": "2026-08-12T19:24:38.013276",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0326",
+      "from": "FAN2_S0",
+      "to": "FAN2_COL",
+      "amount": 14951.07,
+      "timestamp": "2026-08-12T23:29:51.476049",
+      "flagged": true,
+      "cluster_id": "CLUSTER_5"
+    },
+    {
+      "id": "TXN_0327",
+      "from": "FAN2_S1",
+      "to": "FAN2_COL",
+      "amount": 14173.83,
+      "timestamp": "2026-08-12T23:37:51.476049",
+      "flagged": true,
+      "cluster_id": "CLUSTER_5"
+    },
+    {
+      "id": "TXN_0328",
+      "from": "FAN2_S2",
+      "to": "FAN2_COL",
+      "amount": 14772.49,
+      "timestamp": "2026-08-12T23:45:51.476049",
+      "flagged": true,
+      "cluster_id": "CLUSTER_5"
+    },
+    {
+      "id": "TXN_0329",
+      "from": "FAN2_S3",
+      "to": "FAN2_COL",
+      "amount": 11493.95,
+      "timestamp": "2026-08-12T23:53:51.476049",
+      "flagged": true,
+      "cluster_id": "CLUSTER_5"
+    },
+    {
+      "id": "TXN_0330",
+      "from": "FAN2_S4",
+      "to": "FAN2_COL",
+      "amount": 13514.49,
+      "timestamp": "2026-08-13T00:01:51.476049",
+      "flagged": true,
+      "cluster_id": "CLUSTER_5"
+    },
+    {
+      "id": "TXN_0331",
+      "from": "FAN2_S5",
+      "to": "FAN2_COL",
+      "amount": 15217.21,
+      "timestamp": "2026-08-13T00:09:51.476049",
+      "flagged": true,
+      "cluster_id": "CLUSTER_5"
+    },
+    {
+      "id": "TXN_0332",
+      "from": "FAN2_S6",
+      "to": "FAN2_COL",
+      "amount": 11763.05,
+      "timestamp": "2026-08-13T00:17:51.476049",
+      "flagged": true,
+      "cluster_id": "CLUSTER_5"
+    },
+    {
+      "id": "TXN_0015",
+      "from": "ACC_028",
+      "to": "ACC_039",
+      "amount": 9487.53,
+      "timestamp": "2026-08-13T01:58:46.239574",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0117",
+      "from": "ACC_002",
+      "to": "ACC_039",
+      "amount": 15066.31,
+      "timestamp": "2026-08-13T02:52:36.816048",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0333",
+      "from": "FAN2_COL",
+      "to": "FAN2_OUT",
+      "amount": 93968.36,
+      "timestamp": "2026-08-13T04:34:50.507286",
+      "flagged": true,
+      "cluster_id": "CLUSTER_5"
+    },
+    {
+      "id": "TXN_0166",
+      "from": "ACC_006",
+      "to": "ACC_028",
+      "amount": 470.38,
+      "timestamp": "2026-08-13T06:29:09.645849",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0045",
+      "from": "ACC_028",
+      "to": "ACC_036",
+      "amount": 227.08,
+      "timestamp": "2026-08-13T07:00:28.030453",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0253",
+      "from": "ACC_006",
+      "to": "ACC_026",
+      "amount": 1615.24,
+      "timestamp": "2026-08-13T07:10:23.619472",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0197",
+      "from": "ACC_026",
+      "to": "ACC_009",
+      "amount": 18946.04,
+      "timestamp": "2026-08-13T09:08:26.021928",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0151",
+      "from": "ACC_029",
+      "to": "ACC_016",
+      "amount": 4689.03,
+      "timestamp": "2026-08-13T09:52:44.453618",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0006",
+      "from": "ACC_030",
+      "to": "ACC_035",
+      "amount": 549.51,
+      "timestamp": "2026-08-13T10:08:03.084374",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0180",
+      "from": "ACC_003",
+      "to": "ACC_028",
+      "amount": 18659.76,
+      "timestamp": "2026-08-13T15:56:39.153669",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0201",
+      "from": "ACC_035",
+      "to": "ACC_034",
+      "amount": 305.69,
+      "timestamp": "2026-08-13T16:42:51.381259",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0033",
+      "from": "ACC_036",
+      "to": "ACC_032",
+      "amount": 633.43,
+      "timestamp": "2026-08-13T16:55:10.385056",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0169",
+      "from": "ACC_007",
+      "to": "ACC_023",
+      "amount": 9248.54,
+      "timestamp": "2026-08-13T20:43:10.974327",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0009",
+      "from": "ACC_024",
+      "to": "ACC_023",
+      "amount": 786.62,
+      "timestamp": "2026-08-13T23:06:33.675886",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0149",
+      "from": "ACC_030",
+      "to": "ACC_024",
+      "amount": 15633.38,
+      "timestamp": "2026-08-14T01:27:28.489572",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0145",
+      "from": "ACC_017",
+      "to": "ACC_035",
+      "amount": 9265.96,
+      "timestamp": "2026-08-14T02:21:22.685120",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0154",
+      "from": "ACC_009",
+      "to": "ACC_037",
+      "amount": 774.58,
+      "timestamp": "2026-08-14T03:03:01.244419",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0190",
+      "from": "ACC_005",
+      "to": "ACC_006",
+      "amount": 11620.15,
+      "timestamp": "2026-08-14T03:23:15.276396",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0185",
+      "from": "ACC_010",
+      "to": "ACC_016",
+      "amount": 487.85,
+      "timestamp": "2026-08-14T09:51:15.320415",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0042",
+      "from": "ACC_008",
+      "to": "ACC_007",
+      "amount": 5642.61,
+      "timestamp": "2026-08-14T10:03:24.931132",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0068",
+      "from": "ACC_017",
+      "to": "ACC_016",
+      "amount": 7714.29,
+      "timestamp": "2026-08-14T10:28:17.583473",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0170",
+      "from": "ACC_036",
+      "to": "ACC_040",
+      "amount": 1918.01,
+      "timestamp": "2026-08-14T10:43:16.992879",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0005",
+      "from": "ACC_007",
+      "to": "ACC_006",
+      "amount": 9102.65,
+      "timestamp": "2026-08-14T11:38:56.394123",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0127",
+      "from": "ACC_010",
+      "to": "ACC_005",
+      "amount": 19476.46,
+      "timestamp": "2026-08-14T11:39:44.415491",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0100",
+      "from": "ACC_020",
+      "to": "ACC_006",
+      "amount": 5013.68,
+      "timestamp": "2026-08-14T12:33:42.754114",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0066",
+      "from": "ACC_034",
+      "to": "ACC_036",
+      "amount": 19150.67,
+      "timestamp": "2026-08-14T14:02:21.644673",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0008",
+      "from": "ACC_006",
+      "to": "ACC_015",
+      "amount": 9462.15,
+      "timestamp": "2026-08-14T17:08:27.355936",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0139",
+      "from": "ACC_019",
+      "to": "ACC_015",
+      "amount": 1899.78,
+      "timestamp": "2026-08-14T17:11:43.775609",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0246",
+      "from": "ACC_027",
+      "to": "ACC_040",
+      "amount": 11466.65,
+      "timestamp": "2026-08-14T18:46:17.517067",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0040",
+      "from": "ACC_005",
+      "to": "ACC_016",
+      "amount": 5681.7,
+      "timestamp": "2026-08-14T19:58:45.074831",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0135",
+      "from": "ACC_011",
+      "to": "ACC_005",
+      "amount": 8874.62,
+      "timestamp": "2026-08-14T20:12:30.673845",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0115",
+      "from": "ACC_027",
+      "to": "ACC_004",
+      "amount": 9150.25,
+      "timestamp": "2026-08-14T21:26:44.804064",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0198",
+      "from": "ACC_022",
+      "to": "ACC_009",
+      "amount": 2076.33,
+      "timestamp": "2026-08-14T23:45:29.744789",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0215",
+      "from": "ACC_001",
+      "to": "ACC_040",
+      "amount": 1187.88,
+      "timestamp": "2026-08-15T00:53:52.335592",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0261",
+      "from": "RING1_0",
+      "to": "RING1_1",
+      "amount": 180000.0,
+      "timestamp": "2026-08-15T08:18:40.509512",
+      "flagged": true,
+      "cluster_id": "CLUSTER_1"
+    },
+    {
+      "id": "TXN_0114",
+      "from": "ACC_008",
+      "to": "ACC_026",
+      "amount": 2621.75,
+      "timestamp": "2026-08-15T08:28:59.091787",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0245",
+      "from": "ACC_002",
+      "to": "ACC_006",
+      "amount": 13904.71,
+      "timestamp": "2026-08-15T10:34:35.488829",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0262",
+      "from": "RING1_1",
+      "to": "RING1_2",
+      "amount": 174600.0,
+      "timestamp": "2026-08-15T11:18:40.509512",
+      "flagged": true,
+      "cluster_id": "CLUSTER_1"
+    },
+    {
+      "id": "TXN_0263",
+      "from": "RING1_2",
+      "to": "RING1_0",
+      "amount": 169362.0,
+      "timestamp": "2026-08-15T14:18:40.509512",
+      "flagged": true,
+      "cluster_id": "CLUSTER_1"
+    },
+    {
+      "id": "TXN_0007",
+      "from": "ACC_040",
+      "to": "ACC_024",
+      "amount": 1816.59,
+      "timestamp": "2026-08-15T15:49:49.269853",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0060",
+      "from": "ACC_038",
+      "to": "ACC_039",
+      "amount": 10904.8,
+      "timestamp": "2026-08-15T16:47:03.485230",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0024",
+      "from": "ACC_038",
+      "to": "ACC_036",
+      "amount": 844.32,
+      "timestamp": "2026-08-15T22:09:53.306876",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0010",
+      "from": "ACC_016",
+      "to": "ACC_011",
+      "amount": 1494.33,
+      "timestamp": "2026-08-16T05:16:26.502900",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0085",
+      "from": "ACC_027",
+      "to": "ACC_032",
+      "amount": 19333.39,
+      "timestamp": "2026-08-16T06:56:06.892469",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0224",
+      "from": "ACC_032",
+      "to": "ACC_024",
+      "amount": 2788.07,
+      "timestamp": "2026-08-16T08:20:35.648210",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0022",
+      "from": "ACC_034",
+      "to": "ACC_039",
+      "amount": 1384.79,
+      "timestamp": "2026-08-16T08:54:07.551003",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0214",
+      "from": "ACC_032",
+      "to": "ACC_039",
+      "amount": 1700.95,
+      "timestamp": "2026-08-16T09:08:12.728090",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0206",
+      "from": "ACC_017",
+      "to": "ACC_004",
+      "amount": 1995.3,
+      "timestamp": "2026-08-16T10:55:40.503969",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0063",
+      "from": "ACC_040",
+      "to": "ACC_005",
+      "amount": 1475.17,
+      "timestamp": "2026-08-16T11:15:42.568664",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0107",
+      "from": "ACC_037",
+      "to": "ACC_019",
+      "amount": 10967.87,
+      "timestamp": "2026-08-16T15:17:24.025220",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0178",
+      "from": "ACC_009",
+      "to": "ACC_017",
+      "amount": 5039.73,
+      "timestamp": "2026-08-16T20:42:42.456433",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0074",
+      "from": "ACC_032",
+      "to": "ACC_002",
+      "amount": 14370.85,
+      "timestamp": "2026-08-17T01:09:34.380856",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0067",
+      "from": "ACC_033",
+      "to": "ACC_028",
+      "amount": 2525.59,
+      "timestamp": "2026-08-17T02:11:40.305596",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0001",
+      "from": "ACC_008",
+      "to": "ACC_002",
+      "amount": 2276.34,
+      "timestamp": "2026-08-17T03:25:20.206693",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0240",
+      "from": "ACC_023",
+      "to": "ACC_009",
+      "amount": 2658.29,
+      "timestamp": "2026-08-17T06:03:31.450375",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0080",
+      "from": "ACC_008",
+      "to": "ACC_037",
+      "amount": 10905.58,
+      "timestamp": "2026-08-17T06:32:36.891645",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0248",
+      "from": "ACC_030",
+      "to": "ACC_014",
+      "amount": 5442.37,
+      "timestamp": "2026-08-17T06:41:43.199519",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0314",
+      "from": "FAN1_S0",
+      "to": "FAN1_COL",
+      "amount": 8235.47,
+      "timestamp": "2026-08-17T09:11:11.270209",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "TXN_0315",
+      "from": "FAN1_S1",
+      "to": "FAN1_COL",
+      "amount": 9770.91,
+      "timestamp": "2026-08-17T09:19:11.270209",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "TXN_0316",
+      "from": "FAN1_S2",
+      "to": "FAN1_COL",
+      "amount": 8446.91,
+      "timestamp": "2026-08-17T09:27:11.270209",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "TXN_0317",
+      "from": "FAN1_S3",
+      "to": "FAN1_COL",
+      "amount": 8792.55,
+      "timestamp": "2026-08-17T09:35:11.270209",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "TXN_0318",
+      "from": "FAN1_S4",
+      "to": "FAN1_COL",
+      "amount": 8123.2,
+      "timestamp": "2026-08-17T09:43:11.270209",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "TXN_0255",
+      "from": "ACC_007",
+      "to": "ACC_028",
+      "amount": 7496.04,
+      "timestamp": "2026-08-17T09:45:58.700153",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0319",
+      "from": "FAN1_S5",
+      "to": "FAN1_COL",
+      "amount": 8924.69,
+      "timestamp": "2026-08-17T09:51:11.270209",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "TXN_0320",
+      "from": "FAN1_S6",
+      "to": "FAN1_COL",
+      "amount": 7927.44,
+      "timestamp": "2026-08-17T09:59:11.270209",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "TXN_0321",
+      "from": "FAN1_S7",
+      "to": "FAN1_COL",
+      "amount": 9138.88,
+      "timestamp": "2026-08-17T10:07:11.270209",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "TXN_0322",
+      "from": "FAN1_S8",
+      "to": "FAN1_COL",
+      "amount": 10558.89,
+      "timestamp": "2026-08-17T10:15:11.270209",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "TXN_0323",
+      "from": "FAN1_S9",
+      "to": "FAN1_COL",
+      "amount": 9706.22,
+      "timestamp": "2026-08-17T10:23:11.270209",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "TXN_0324",
+      "from": "FAN1_S10",
+      "to": "FAN1_COL",
+      "amount": 7694.18,
+      "timestamp": "2026-08-17T10:31:11.270209",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "TXN_0016",
+      "from": "ACC_001",
+      "to": "ACC_008",
+      "amount": 12128.5,
+      "timestamp": "2026-08-17T11:32:16.701404",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0172",
+      "from": "ACC_012",
+      "to": "ACC_010",
+      "amount": 1785.7,
+      "timestamp": "2026-08-17T12:46:18.672405",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0064",
+      "from": "ACC_026",
+      "to": "ACC_016",
+      "amount": 613.2,
+      "timestamp": "2026-08-17T13:34:33.860259",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0325",
+      "from": "FAN1_COL",
+      "to": "FAN1_OUT",
+      "amount": 95372.95,
+      "timestamp": "2026-08-17T13:38:57.019505",
+      "flagged": true,
+      "cluster_id": "CLUSTER_6"
+    },
+    {
+      "id": "TXN_0140",
+      "from": "ACC_009",
+      "to": "ACC_007",
+      "amount": 13987.79,
+      "timestamp": "2026-08-17T14:15:37.557688",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0186",
+      "from": "ACC_005",
+      "to": "ACC_012",
+      "amount": 13675.13,
+      "timestamp": "2026-08-17T14:28:39.891054",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0210",
+      "from": "ACC_002",
+      "to": "ACC_021",
+      "amount": 17266.0,
+      "timestamp": "2026-08-17T18:09:29.633027",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0049",
+      "from": "ACC_012",
+      "to": "ACC_027",
+      "amount": 15521.6,
+      "timestamp": "2026-08-17T20:12:14.076200",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0236",
+      "from": "ACC_012",
+      "to": "ACC_024",
+      "amount": 1624.52,
+      "timestamp": "2026-08-17T20:52:57.964522",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0205",
+      "from": "ACC_025",
+      "to": "ACC_033",
+      "amount": 1676.89,
+      "timestamp": "2026-08-17T23:09:22.369690",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0078",
+      "from": "ACC_035",
+      "to": "ACC_004",
+      "amount": 2999.74,
+      "timestamp": "2026-08-18T01:23:00.847427",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0219",
+      "from": "ACC_012",
+      "to": "ACC_030",
+      "amount": 2946.29,
+      "timestamp": "2026-08-18T02:30:33.280344",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0194",
+      "from": "ACC_024",
+      "to": "ACC_019",
+      "amount": 1284.77,
+      "timestamp": "2026-08-18T05:18:20.527471",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0106",
+      "from": "ACC_010",
+      "to": "ACC_018",
+      "amount": 2514.57,
+      "timestamp": "2026-08-18T05:45:57.075396",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0083",
+      "from": "ACC_038",
+      "to": "ACC_016",
+      "amount": 485.32,
+      "timestamp": "2026-08-18T06:52:51.234583",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0188",
+      "from": "ACC_010",
+      "to": "ACC_029",
+      "amount": 10517.54,
+      "timestamp": "2026-08-18T07:32:39.236843",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0259",
+      "from": "ACC_033",
+      "to": "ACC_003",
+      "amount": 5329.62,
+      "timestamp": "2026-08-18T09:39:45.993837",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0237",
+      "from": "ACC_032",
+      "to": "ACC_002",
+      "amount": 12728.72,
+      "timestamp": "2026-08-18T10:17:06.131269",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0200",
+      "from": "ACC_013",
+      "to": "ACC_015",
+      "amount": 5634.07,
+      "timestamp": "2026-08-18T20:01:09.430413",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0234",
+      "from": "ACC_005",
+      "to": "ACC_029",
+      "amount": 683.44,
+      "timestamp": "2026-08-18T23:43:12.474210",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0077",
+      "from": "ACC_025",
+      "to": "ACC_018",
+      "amount": 17142.71,
+      "timestamp": "2026-08-19T00:04:56.874665",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0242",
+      "from": "ACC_015",
+      "to": "ACC_023",
+      "amount": 11821.26,
+      "timestamp": "2026-08-19T00:21:54.415145",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0136",
+      "from": "ACC_017",
+      "to": "ACC_030",
+      "amount": 6386.69,
+      "timestamp": "2026-08-19T00:38:26.698498",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0051",
+      "from": "ACC_015",
+      "to": "ACC_013",
+      "amount": 10825.15,
+      "timestamp": "2026-08-19T02:27:43.519933",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0244",
+      "from": "ACC_038",
+      "to": "ACC_010",
+      "amount": 13616.15,
+      "timestamp": "2026-08-19T06:09:43.037638",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0029",
+      "from": "ACC_029",
+      "to": "ACC_009",
+      "amount": 1381.27,
+      "timestamp": "2026-08-19T10:33:00.569421",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0122",
+      "from": "ACC_018",
+      "to": "ACC_001",
+      "amount": 8075.45,
+      "timestamp": "2026-08-19T14:48:30.517783",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0071",
+      "from": "ACC_027",
+      "to": "ACC_025",
+      "amount": 2733.55,
+      "timestamp": "2026-08-19T18:10:01.970789",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0148",
+      "from": "ACC_003",
+      "to": "ACC_020",
+      "amount": 2988.6,
+      "timestamp": "2026-08-19T18:26:04.663202",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0187",
+      "from": "ACC_029",
+      "to": "ACC_037",
+      "amount": 19771.04,
+      "timestamp": "2026-08-19T18:38:01.113650",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0072",
+      "from": "ACC_025",
+      "to": "ACC_031",
+      "amount": 8979.9,
+      "timestamp": "2026-08-19T21:01:12.342756",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0220",
+      "from": "ACC_030",
+      "to": "ACC_003",
+      "amount": 1021.64,
+      "timestamp": "2026-08-19T22:00:45.554518",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0167",
+      "from": "ACC_036",
+      "to": "ACC_022",
+      "amount": 9983.75,
+      "timestamp": "2026-08-19T22:49:26.037552",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0252",
+      "from": "ACC_013",
+      "to": "ACC_011",
+      "amount": 11750.32,
+      "timestamp": "2026-08-19T22:59:27.675628",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0116",
+      "from": "ACC_014",
+      "to": "ACC_018",
+      "amount": 18770.44,
+      "timestamp": "2026-08-19T23:34:47.201790",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0101",
+      "from": "ACC_015",
+      "to": "ACC_034",
+      "amount": 18444.57,
+      "timestamp": "2026-08-20T01:17:05.099379",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0055",
+      "from": "ACC_021",
+      "to": "ACC_028",
+      "amount": 11694.19,
+      "timestamp": "2026-08-20T01:54:44.193511",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0031",
+      "from": "ACC_016",
+      "to": "ACC_011",
+      "amount": 11183.09,
+      "timestamp": "2026-08-20T02:46:56.982471",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0052",
+      "from": "ACC_015",
+      "to": "ACC_002",
+      "amount": 9773.92,
+      "timestamp": "2026-08-20T02:50:21.196610",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0048",
+      "from": "ACC_027",
+      "to": "ACC_040",
+      "amount": 2298.54,
+      "timestamp": "2026-08-20T03:11:24.776467",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0125",
+      "from": "ACC_025",
+      "to": "ACC_010",
+      "amount": 3629.33,
+      "timestamp": "2026-08-20T03:18:34.296883",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0207",
+      "from": "ACC_008",
+      "to": "ACC_019",
+      "amount": 5725.31,
+      "timestamp": "2026-08-20T03:48:38.509448",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0050",
+      "from": "ACC_016",
+      "to": "ACC_018",
+      "amount": 14921.73,
+      "timestamp": "2026-08-20T04:10:41.867820",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0089",
+      "from": "ACC_032",
+      "to": "ACC_014",
+      "amount": 7391.99,
+      "timestamp": "2026-08-20T04:30:34.847302",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0108",
+      "from": "ACC_033",
+      "to": "ACC_035",
+      "amount": 1582.63,
+      "timestamp": "2026-08-20T09:53:52.621304",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0146",
+      "from": "ACC_024",
+      "to": "ACC_007",
+      "amount": 11015.11,
+      "timestamp": "2026-08-20T10:36:06.446910",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0208",
+      "from": "ACC_028",
+      "to": "ACC_006",
+      "amount": 6774.65,
+      "timestamp": "2026-08-20T12:11:05.035938",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0196",
+      "from": "ACC_039",
+      "to": "ACC_010",
+      "amount": 1133.41,
+      "timestamp": "2026-08-20T13:29:08.790180",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0235",
+      "from": "ACC_021",
+      "to": "ACC_023",
+      "amount": 12349.95,
+      "timestamp": "2026-08-20T13:39:49.885648",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0134",
+      "from": "ACC_030",
+      "to": "ACC_017",
+      "amount": 18281.45,
+      "timestamp": "2026-08-20T14:28:19.958702",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0171",
+      "from": "ACC_018",
+      "to": "ACC_002",
+      "amount": 14945.88,
+      "timestamp": "2026-08-20T16:52:46.101714",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0053",
+      "from": "ACC_018",
+      "to": "ACC_023",
+      "amount": 9794.53,
+      "timestamp": "2026-08-20T20:08:37.394765",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0041",
+      "from": "ACC_034",
+      "to": "ACC_001",
+      "amount": 2070.02,
+      "timestamp": "2026-08-20T20:26:37.351409",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0120",
+      "from": "ACC_031",
+      "to": "ACC_016",
+      "amount": 1479.0,
+      "timestamp": "2026-08-20T20:49:09.584269",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0138",
+      "from": "ACC_026",
+      "to": "ACC_018",
+      "amount": 222.67,
+      "timestamp": "2026-08-20T20:50:06.274944",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0082",
+      "from": "ACC_020",
+      "to": "ACC_037",
+      "amount": 19288.94,
+      "timestamp": "2026-08-20T23:15:39.946734",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0021",
+      "from": "ACC_005",
+      "to": "ACC_035",
+      "amount": 5182.65,
+      "timestamp": "2026-08-21T01:10:29.213712",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0102",
+      "from": "ACC_020",
+      "to": "ACC_037",
+      "amount": 1938.88,
+      "timestamp": "2026-08-21T02:34:20.534534",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0251",
+      "from": "ACC_027",
+      "to": "ACC_016",
+      "amount": 18339.28,
+      "timestamp": "2026-08-21T07:55:04.281807",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0118",
+      "from": "ACC_006",
+      "to": "ACC_015",
+      "amount": 18519.81,
+      "timestamp": "2026-08-21T12:51:49.128048",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0128",
+      "from": "ACC_006",
+      "to": "ACC_022",
+      "amount": 17608.82,
+      "timestamp": "2026-08-21T15:55:46.325921",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0192",
+      "from": "ACC_010",
+      "to": "ACC_004",
+      "amount": 16786.44,
+      "timestamp": "2026-08-21T17:08:46.435343",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0250",
+      "from": "ACC_018",
+      "to": "ACC_029",
+      "amount": 4645.8,
+      "timestamp": "2026-08-21T17:12:50.105992",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0152",
+      "from": "ACC_023",
+      "to": "ACC_004",
+      "amount": 1314.79,
+      "timestamp": "2026-08-21T18:04:55.283702",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0111",
+      "from": "ACC_018",
+      "to": "ACC_012",
+      "amount": 10410.04,
+      "timestamp": "2026-08-21T19:41:02.718442",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0017",
+      "from": "ACC_019",
+      "to": "ACC_028",
+      "amount": 3055.17,
+      "timestamp": "2026-08-22T04:07:07.300588",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0209",
+      "from": "ACC_027",
+      "to": "ACC_004",
+      "amount": 9357.35,
+      "timestamp": "2026-08-22T06:14:19.252270",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0030",
+      "from": "ACC_036",
+      "to": "ACC_007",
+      "amount": 341.65,
+      "timestamp": "2026-08-22T06:36:24.916549",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0095",
+      "from": "ACC_018",
+      "to": "ACC_038",
+      "amount": 11918.83,
+      "timestamp": "2026-08-22T10:09:37.578503",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0109",
+      "from": "ACC_039",
+      "to": "ACC_017",
+      "amount": 272.42,
+      "timestamp": "2026-08-22T15:55:09.322066",
+      "flagged": false,
+      "cluster_id": null
+    },
+    {
+      "id": "TXN_0129",
+      "from": "ACC_032",
+      "to": "ACC_035",
+      "amount": 4163.15,
+      "timestamp": "2026-08-22T16:37:30.208698",
+      "flagged": false,
+      "cluster_id": null
+    }
+  ],
+  "clusters": [
+    {
+      "cluster_id": "CLUSTER_1",
+      "pattern_type": "circular",
+      "accounts_involved": [
+        "RING1_1",
+        "RING1_2",
+        "RING1_0"
+      ],
+      "transaction_ids": [
+        "TXN_0262",
+        "TXN_0263",
+        "TXN_0261"
+      ],
+      "total_amount": 523962.0,
+      "time_span_hours": 6.0,
+      "num_hops": 3,
+      "explanation": "\u20b9523,962 moved through a closed loop of 3 accounts and returned close to its starting point within 6.0 hours. Each hop kept the amount nearly unchanged, which is consistent with layering \u2014 moving money through intermediaries to obscure its origin rather than any real economic transaction.",
+      "confidence": "medium"
+    },
+    {
+      "cluster_id": "CLUSTER_2",
+      "pattern_type": "circular",
+      "accounts_involved": [
+        "RING2_2",
+        "RING2_3",
+        "RING2_0",
+        "RING2_1"
+      ],
+      "transaction_ids": [
+        "TXN_0266",
+        "TXN_0267",
+        "TXN_0264",
+        "TXN_0265"
+      ],
+      "total_amount": 363239.43,
+      "time_span_hours": 9.0,
+      "num_hops": 4,
+      "explanation": "\u20b9363,239 moved through a closed loop of 4 accounts and returned close to its starting point within 9.0 hours. Each hop kept the amount nearly unchanged, which is consistent with layering \u2014 moving money through intermediaries to obscure its origin rather than any real economic transaction.",
+      "confidence": "medium"
+    },
+    {
+      "cluster_id": "CLUSTER_3",
+      "pattern_type": "smurfing",
+      "accounts_involved": [
+        "SMURF2_SRC",
+        "SMURF2_M1",
+        "SMURF2_M4",
+        "SMURF2_M7",
+        "SMURF2_M0",
+        "SMURF2_M2",
+        "SMURF2_M5",
+        "SMURF2_M6",
+        "SMURF2_M3",
+        "SMURF2_M8",
+        "SMURF2_COL"
+      ],
+      "transaction_ids": [
+        "TXN_0297",
+        "TXN_0301",
+        "TXN_0305",
+        "TXN_0296",
+        "TXN_0307",
+        "TXN_0309",
+        "TXN_0311",
+        "TXN_0304",
+        "TXN_0302",
+        "TXN_0306",
+        "TXN_0312",
+        "TXN_0310",
+        "TXN_0313",
+        "TXN_0300",
+        "TXN_0308",
+        "TXN_0299",
+        "TXN_0303",
+        "TXN_0298"
+      ],
+      "total_amount": 120717.63,
+      "time_span_hours": 2.7,
+      "num_mules": 9,
+      "explanation": "\u20b9120,718 was split into 9 transfers, each kept just under the \u20b915,000 threshold, sent to 9 separate accounts, then reconsolidated into a single account within 2.7 hours. This structuring pattern is a classic way to stay under reporting limits while still moving a large sum as one block.",
+      "confidence": "high"
+    },
+    {
+      "cluster_id": "CLUSTER_4",
+      "pattern_type": "smurfing",
+      "accounts_involved": [
+        "SMURF1_SRC",
+        "SMURF1_M8",
+        "SMURF1_M1",
+        "SMURF1_M6",
+        "SMURF1_M10",
+        "SMURF1_M12",
+        "SMURF1_M0",
+        "SMURF1_M2",
+        "SMURF1_M7",
+        "SMURF1_M11",
+        "SMURF1_M4",
+        "SMURF1_M3",
+        "SMURF1_M13",
+        "SMURF1_M5",
+        "SMURF1_M9",
+        "SMURF1_COL"
+      ],
+      "transaction_ids": [
+        "TXN_0286",
+        "TXN_0274",
+        "TXN_0291",
+        "TXN_0288",
+        "TXN_0281",
+        "TXN_0273",
+        "TXN_0279",
+        "TXN_0292",
+        "TXN_0285",
+        "TXN_0287",
+        "TXN_0272",
+        "TXN_0294",
+        "TXN_0290",
+        "TXN_0275",
+        "TXN_0269",
+        "TXN_0268",
+        "TXN_0293",
+        "TXN_0276",
+        "TXN_0278",
+        "TXN_0295",
+        "TXN_0282",
+        "TXN_0270",
+        "TXN_0271",
+        "TXN_0277",
+        "TXN_0284",
+        "TXN_0283",
+        "TXN_0280",
+        "TXN_0289"
+      ],
+      "total_amount": 191334.23,
+      "time_span_hours": 4.3,
+      "num_mules": 14,
+      "explanation": "\u20b9191,334 was split into 14 transfers, each kept just under the \u20b915,000 threshold, sent to 14 separate accounts, then reconsolidated into a single account within 4.3 hours. This structuring pattern is a classic way to stay under reporting limits while still moving a large sum as one block.",
+      "confidence": "high"
+    },
+    {
+      "cluster_id": "CLUSTER_5",
+      "pattern_type": "fan_in_out",
+      "accounts_involved": [
+        "FAN2_S0",
+        "FAN2_S1",
+        "FAN2_S2",
+        "FAN2_S3",
+        "FAN2_S4",
+        "FAN2_S5",
+        "FAN2_S6",
+        "FAN2_COL",
+        "FAN2_OUT"
+      ],
+      "transaction_ids": [
+        "TXN_0326",
+        "TXN_0327",
+        "TXN_0328",
+        "TXN_0329",
+        "TXN_0330",
+        "TXN_0331",
+        "TXN_0332",
+        "TXN_0333"
+      ],
+      "total_amount": 95886.09,
+      "time_span_hours": 5.1,
+      "num_senders": 7,
+      "explanation": "7 separate accounts sent smaller amounts into one collector account, which then paid out \u20b995,886 in a single large transfer within 5.1 hours of the first inflow. The account shows no other activity outside this window, suggesting it exists only to pool and forward funds.",
+      "confidence": "high"
+    },
+    {
+      "cluster_id": "CLUSTER_6",
+      "pattern_type": "fan_in_out",
+      "accounts_involved": [
+        "FAN1_S0",
+        "FAN1_S1",
+        "FAN1_S2",
+        "FAN1_S3",
+        "FAN1_S4",
+        "FAN1_S5",
+        "FAN1_S6",
+        "FAN1_S7",
+        "FAN1_S8",
+        "FAN1_S9",
+        "FAN1_S10",
+        "FAN1_COL",
+        "FAN1_OUT"
+      ],
+      "transaction_ids": [
+        "TXN_0314",
+        "TXN_0315",
+        "TXN_0316",
+        "TXN_0317",
+        "TXN_0318",
+        "TXN_0319",
+        "TXN_0320",
+        "TXN_0321",
+        "TXN_0322",
+        "TXN_0323",
+        "TXN_0324",
+        "TXN_0325"
+      ],
+      "total_amount": 97319.34,
+      "time_span_hours": 4.5,
+      "num_senders": 11,
+      "explanation": "11 separate accounts sent smaller amounts into one collector account, which then paid out \u20b997,319 in a single large transfer within 4.5 hours of the first inflow. The account shows no other activity outside this window, suggesting it exists only to pool and forward funds.",
+      "confidence": "high"
+    }
+  ]
+}
